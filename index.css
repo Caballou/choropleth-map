@@ -78,3 +78,7 @@
   fill: none;
   stroke: rgba(187, 35, 167, 0.575); 
 }
+
+.source {
+  font: 14px sans-serif;
+}

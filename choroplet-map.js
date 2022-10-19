@@ -66,7 +66,7 @@ const graph = (data, counties, stateBorders) => {
    svg.append('text')
     .attr('x', 585)
     .attr('y', 630)
-    .attr('class', 'info')
+    .attr('class', 'source')
     .html('Source: <a href="https://www.ers.usda.gov/data-products/county-level-data-sets/download-data.aspx" target="blank_">USDA Economic Research Service</a>')
 
   /*Graficado de counties + tooltip*/
